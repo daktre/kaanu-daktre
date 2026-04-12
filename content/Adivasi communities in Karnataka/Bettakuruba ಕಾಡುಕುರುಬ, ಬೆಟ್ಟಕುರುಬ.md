@@ -1,0 +1,26 @@
+Proeedings from KSTRI meeting
+- includes KK as well. we are the same. only in 3 districts; our own survey showsn 8000-odd but reserach studeis show 5000 families...
+- LIttle bit of access to land schemes; limited access to housing; pls give special package for housing, water and for our culture and folklore - erotion of our songs, language
+- our population is decreasing - 
+- we record 160 deaths per year esp among adult males
+- in kodagu, all of our people in line-houses not even eable to identify and bring them into community organisations
+- estate managers prevent people from surveying tribes workign inside estates
+- need special powers to survey adivasis stuck in bonded labour inside estates
+- for eg. Yerava is inside alemaari & budakattu
+- alemaaru results in us losing the forest rights
+- Need to "steal one's way into the forest for burial"; is this the life we wanted....we cant even claim our rights under FRA; case of needing to go 10 km inside forests after seekign permision which was received at 3 PM in HDK taluka
+- we are across 250 haadis
+- appeal for instrumetns and accessories for advancing our folklore and culture - instead of that big building samudaaya bhavana
+- not getting any nutritious food in line-mane of BKs in Kodagu- 
+- remove duplication of names in state ST list
+- Even within the ST list, Soliga in Mysore for eg. has taken up JK certificates and housing schemes (gave an example)
+- we may be having known to us 160-odd kulals - these need to be studied in terms of their origins locations, and burial sites
+- study the lack of access of tribals to their own cultural and other sites
+- regarding BK issues in teh Assadi report - reports 3400 odd families and dont agree with teh 15 lakhs per family - SC has already asked for 55 lakhs odd in 2008 itself as a relief for a family - at least give costing of money equivalent to 3 acres, a house, and other stuff
+- some of the committees ruling on our issues do not have our own people as members
+- we are bamboo weavers and this is our historical occupation and also shifting cultivation
+- bamboo is also getting destroyed
+- instacnes of SCD among the BKs; not getting treatment, screeening
+- need for special access to food for patients with SCD
+- even our ashrama school teachers are not qualified as per the education policy of the state - better qualfied teachers - have more people from within the community as teachers
+- 

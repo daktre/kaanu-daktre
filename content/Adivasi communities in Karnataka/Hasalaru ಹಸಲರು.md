@@ -1,0 +1,3 @@
+ - Coffee estate related bonded labour and "slave trade like conditions"
+- Homelessness
+- 

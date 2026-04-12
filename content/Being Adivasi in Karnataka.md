@@ -1,0 +1,5 @@
+In Karnataka's list of scheduled tribe, there are 51 communities listed. However, numerical distribution across 51 is quite diverse. For instance, just one community accounts for over 70% of the ST population. Whereas the 12 Adivasi communities of Karnataka (listed on the left) may constitute less than 10% of the population. Distribution of benefits to these 12 are anecdotally known to be very scarce. Yet, data remains illusory as all data systems of the government capture ST data (not Adivasi group level data). 
+See
+1. See Dr. Krishnamurthy's (a scholar from Karnataka's [[Iruliga ಇರುಳಿಗ]] people) appeal on this: https://eedina.com/special/why-not-internal-reservation-for-scheduled-castes1015/2025-05-08/
+2. [[Adivasi self-assertion in Nagarhole]] & other parts of southern Karnataka  - also see the recent press release on the porposed meeting of the International Big Cat Alliance in the backyard of communities whose forest rights are not settled
+<iframe src="https://archive.org/embed/IBCA-Nagarhole-press-release-eng" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

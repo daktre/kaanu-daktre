@@ -1,0 +1,24 @@
+- [[Gender norms in Yerava|Artricle in ಪ್ರಜಾವಾಣಿ on gender in Yerava by Pushpaja]], a Yerava Adivasi scholar
+
+## Proceedings at the KSTRI meeting on 16 October
+- 
+- Slave trade like behaviour of yerava people across estates
+- Dilution of identity across paniya and yerava by issuing common certificates 
+- lack of basic demographic and distribution details
+- Threats to food practices and traditional diets which are all getting eroded
+- tough to follow culture by being a slave trader in another's estate
+- comparable to the Hasalaru in terms of being bonded to coffee estate, cultural erotion - managers of estates prevent community organisation and do not allow for educqtion of childtren and keep us "backward"
+- Primacy for girl child - with festivities for the birth of girl child - esp among panjari yerava - quite matrilineal
+- comparable to the Adiya of the Kerala - we call ourselves "ravalar" - dont know why we are yeraval or panchari yerava - big problem in terms of our own idenitty - its a crisis of why we are called one thing in the docum ents and we identify otherwise - a structural violence
+- tough to have diff schools - kerala model of being in one cqmpus right thoruhg the education
+- many incidences of cancer among young forest-based adivasi communities among the Yerava 
+- need for resaerch on why there is cancer among the young peoples deaths 
+- High rates of tobacco and alcohol
+- Structural violence by improving addiction-related behaviour
+- Very poor healthcare experience - we tried our best to help but lots of documentation missing for accessing various healthcare schemes and even basic housing schemes - many people living in plastic homes
+- Our people are dying young
+- loss of access to forest products - even mushrooms - also climate change diminishing access to materials in the forests - also related to use of chemicals by the nearby estates
+- complete lack of occupational safety 
+- extensive sexual violence
+- Prof Somanna - retired professor in Gonikoppa - 
+- Yesterday death 
