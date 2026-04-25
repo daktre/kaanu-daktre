@@ -3,14 +3,14 @@ This is a "staging" area to plan for phase 2. The goal at this stage is to get a
 **Last updated:** 2026-04-18
 **Status:** Staging. Read-only planning material.
 ## Current documents
-### 1. [[Kaanu Integrated Platform]]
+### 1. [[Kaanu Integrated Platform (archived)]]
 
 Idea of a single domain kaanu.org with three components: landing page, an [Omeka S](https://omeka.org/s/) archive, and a [Quartz-generated graph layer](https://quartz.jzhao.xyz) rebuilt from Omeka's data (now). In future, the pipeline will involve docs going first on the Omeka S Archive rather than directly on Quartz. 
-### 2. [[Kaanu pipeline]]
+### 2. [[kaanu pipeline (archived)]]
 
 ==To be updated:== How a document gets identified, captured, triaged, enriched, deposited, announced, and interacted with. Zotero as the capture tool for bibliographic items, direct-to-Omeka for non-bibliographic material, Contribution module for ally submissions, controlled vocabularies for subject/community/region/era. Roles for the three member categories. Public browse and search without login; contribute, annotate, comment, and save only with login.
 
-### 3. [[kaanu bibliography migration]]]
+### 3. [[kaanu bibliography migration (archived)]]]
 
 ==To be updated:== Step-by-step for moving the existing Quartz bibliography into Omeka. Routes both kinds (WIKINDX-exported and hand-written-with-PDFs) through Zotero as a staging area. Includes the `md_to_bibtex.py` and `csv_to_bibtex.py` conversion scripts, the CSV Import trial, the Zotero Import module switchover, SQL verification queries, and an nginx redirect map preserving old URLs.
 
@@ -20,13 +20,13 @@ Intact. Runs in Phase 2 of the integrated platform plan.
 
 Kept for context. Each is flagged at the top with how it has been superseded. If you are coming in fresh, you can skip these, but they make the reasoning behind the current plan visible.
 
-### 4. [Original unified plan](kaanu%20plan%20(OLD).md)
+### 4. [Original unified plan](kaanu%20plan%20(archived).md)
 
 The first attempt at bringing together curation, archive, membership, and the BR Hills centre under one plan. Recommended keeping Quartz for the atelier and Omeka for the archive, under one domain. Superseded in architecture by the integrated platform plan, but its sections on charter, membership, and the centre still hold.
 
-Status: superseded. Charter, membership, and centre sections still current. Architecture section replaced by [[Kaanu Integrated Platform]]
+Status: superseded. Charter, membership, and centre sections still current. Architecture section replaced by [[Kaanu Integrated Platform (archived)]]
 
-### 5. [[kaanu evaluation]]
+### 5. [[kaanu evaluation (archived)]]
 
 A second-look document that tested the "two parallel systems" assumption. Concluded that Omeka alone could carry the ambition, and recommended Path B (Omeka only, with a one-way Obsidian-to-Omeka publishing pipeline for authoring).
 
@@ -37,7 +37,7 @@ Status: the evaluation's logic still holds as a useful reasoning record, but its
 - [ ] **Charter text.** Currently noted as "in preparation" by the initiator.
 - [ ] **Member directory seed.** Shortlist of Adivasi members, Adivasi scholars, and non-Adivasi allies to invite at soft-launch.
 - [ ] **Visual identity brief.** Colour, typography, header/footer spec that will be applied to the landing page, the Omeka theme, and the Quartz theme.
-- [ ] Revisit the [[kaanu plan (OLD)]] which still has stuff to rejig
+- [ ] Revisit the [[kaanu plan (archived)]] which still has stuff to rejig
 
 
 Five decisions flagged in the integrated platform plan that are cheap to resolve now and expensive to resolve mid-Phase-1:
