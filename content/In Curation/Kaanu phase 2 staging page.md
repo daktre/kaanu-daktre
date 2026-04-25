@@ -17,6 +17,7 @@ Operational reference for running Kaanu. Periodically updated.
 
 ## To be done
 
+- Operational plan: 
 - **Charter** for membership.
 - **Member directory.** Shortlist of Adivasi members, Adivasi scholars, and non-Adivasi allies to invite at soft-launch.
 - **Events page.**

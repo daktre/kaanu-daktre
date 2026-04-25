@@ -3,6 +3,7 @@
 **Last updated:** 2026-04-25
 
 Supersedes the [[Kaanu Integrated Platform (archived)|integrated platform plan]].
+Based on this, we had the [[kaanu phase 2 ops plan april 2026]]
 
 ## 1. What should the tech component enable for Kaanu?
 
